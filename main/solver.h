@@ -1,7 +1,3 @@
-//
-// Created by Даниил Кондратьев on 2019-11-12.
-//
-
 #ifndef TEXHELPER_SOLVER_H
 #define TEXHELPER_SOLVER_H
 

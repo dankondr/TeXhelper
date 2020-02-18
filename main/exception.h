@@ -1,7 +1,3 @@
-//
-// Created by Даниил Кондратьев on 26.11.2019.
-//
-
 #ifndef TEXHELPER_EXCEPTION_H
 #define TEXHELPER_EXCEPTION_H
 
